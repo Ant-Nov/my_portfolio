@@ -6,8 +6,7 @@ A full-stack e-commerce application built with **Next.js App Router** featuring 
 
 **Key technologies:** Next.js 16, React 19, TypeScript, Prisma, PostgreSQL, Clerk Authentication, Stripe, Supabase Storage, Tailwind CSS 4, shadcn/ui, Zod.
 
-**Live Demo:** https://next-js-store-draft-red.vercel.app/
-**Repository:** https://github.com/Ant-Nov/next-js-store-draft
+**Links:** [🌐 Live Demo](https://next-js-store-draft-red.vercel.app/) • [💻 Source Code](https://github.com/Ant-Nov/next-js-store-draft)
 
 ---
 
@@ -17,8 +16,8 @@ A React single-page e-commerce application that allows users to browse products,
 
 **Key technologies:** React, TypeScript, Vite, React Router, TanStack Query, Redux Toolkit, Tailwind CSS, DaisyUI, Vitest, Testing Library, Playwright, MSW.
 
-**Live Demo:** https://ant-nov.github.io/comfy-store/
-**Repository:** https://github.com/Ant-Nov/comfy-store
+**Links:** [🌐 Live Demo](https://ant-nov.github.io/comfy-store/) • [💻 Source Code](https://github.com/Ant-Nov/comfy-store)
+
 
 ---
 
@@ -28,5 +27,4 @@ A React application for searching GitHub users and visualizing their public prof
 
 **Key technologies:** React, TypeScript, GraphQL, Apollo Client, GraphQL Code Generator, Vite, Tailwind CSS, shadcn/ui, Recharts.
 
-**Live Demo:** https://react-graphql-project.vercel.app/
-**Repository:** https://github.com/Ant-Nov/react-graphql-project
+**Links:** [🌐 Live Demo](https://react-graphql-project.vercel.app/) • [💻 Source Code](https://github.com/Ant-Nov/react-graphql-project)
